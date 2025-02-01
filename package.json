@@ -2,15 +2,15 @@
   "name": "styr-glyph",
   "version": "0.0.1",
   "description": "Glyphs can be used with Styr",
-  "author": "Yasuhiro Яша Asaka <yasuhiro.asaka@grauwoelfchen.net>",
+  "author": "Yasha <yasuhiro.asaka@grauwoelfchen.net>",
   "license": "MIT",
-  "homepage": "https://gitlab.com/styrcss/styr-glyph",
+  "homepage": "https://gitlab.com/grauwoelfchen/styr-glyph",
   "keybords": [
     "css"
   ],
   "repository": {
     "type": "git",
-    "url": "https://gitlab.com/styrscss/styr-glyph.git"
+    "url": "https://gitlab.com/grauwoelfchen/styr-glyph.git"
   },
   "scripts": {
     "lint": "npx eslint gulpfile.js",

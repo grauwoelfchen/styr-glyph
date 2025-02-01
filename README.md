@@ -76,7 +76,7 @@ i.paw {
 
 ```txt
 Styr Glyph
-Copyright (c) 2023 Yasuhiro Яша Asaka
+Copyright (c) 2023-2025 Yasha
 ```
 
 See [LICENSE](LICENSE).
